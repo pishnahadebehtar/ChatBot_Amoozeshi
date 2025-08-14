@@ -1,0 +1,18 @@
+bot toke = 7681206723:AAF4dZpYjCMoiQelPIrA0MDJ6auBVR420WM
+
+OpenRouter Api key = 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
+
+ProjectId =  68968643002bec4aa3b1
+
+api key = standard_00a83cc99d78e743461445286fa71b9f2d3c83c39f6ba5d4aa0c8ab47186e747beb60ea35ca902ff15715d7c61929414cec394f1f3d5cf16690c6eaf497b16a9c5dd5e9eb9c064d2e6f9ff3deacd691a6b868a4ea6c02cef7500687c064c17852c7027179b1203c5488df5e192d1ca3680d0a8408d770ef4b7717dcbeeb9b517
+
+DBId = database
+
+users collection ID = chats 
+
+
+URL =https://689d06c1000da02310fa.fra.appwrite.run/
+
+chats collection ID = users
+
+
